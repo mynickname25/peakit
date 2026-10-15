@@ -1,0 +1,12 @@
+{
+  "source_workbook": "Растения_парка_с_фото.xlsx",
+  "source_sheet": "Все растения",
+  "records": 47,
+  "red_book_candidates": 21,
+  "ordinary_candidates": 26,
+  "duplicate_ids": 0,
+  "missing_russian_names": 0,
+  "missing_latin_names": 0,
+  "images_present": 0,
+  "note": "Values copied from workbook; conservation status and several traits are preliminary as marked in the workbook."
+}
